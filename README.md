@@ -1,5 +1,6 @@
 ## w3-resources-C
 C basic codes
+- The following are the contibutors to this repo:
 
 || Name | Github Profile |
 |-|----------------------|:-----------------:|

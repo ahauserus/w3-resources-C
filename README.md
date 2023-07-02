@@ -8,7 +8,7 @@ ___
 |1.| [Ahauserus](https://github.com/Ahauserus)| ahauserus@gmail.com|1, 6, 7 |
 |2.| [Minayo](https://github.com/volemy)| minayobenevolence0@gmail.com|4, |
 |3.| [Nessy](https://github.com/nessy254)| mukaminessy9@gmail.com|3, 10, 11, 15 |
-|4.| [Mark](https://www.w3schools.com/)| w3schools@gmail.com| |
+|4.| [Mark](https://www.w3schools.com/)| w3schools@gmail.com|2, 17, 18, 19 , 20 |
 |5.| [Keith](https://github.com/Brokeice123)| keithmarkomen@gmail.com|3, 12, 13, 14, 16 |
 ___
 

@@ -172,3 +172,60 @@ Expected Output :
 The positive divisor : 1 2 4 7 8 14 28
 The sum of the divisor is : 64
 So, the number is not perfect.
+
+21. Write a C program that prints an inverted pyramid.
+Input the number : 8
+Expected Output :
+* * * * * * * *
+ * * * * * * *
+  * * * * * *
+    * * * *
+     * * *
+      * *
+       *
+
+
+22. Write a C program that prints a diamond.
+Input the number : 8
+Expected Output :
+
+        *
+       * *
+      * * *
+     * * * *
+    * * * * *
+   * * * * * *
+  * * * * * * *
+ * * * * * * * *
+  * * * * * * *
+   * * * * * *
+    * * * * *
+     * * * *
+      * * *
+       * *
+        *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

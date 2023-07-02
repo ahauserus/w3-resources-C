@@ -8,6 +8,7 @@ ___
 |------|-----------------|
 | Ahauserus | [Ahauserus](https://github.com/Ahauserus)] |
 | Minayo Benevolence| [volemy](https://github.com/volemy)]|
+| Nessy | [nessy254](https://github.com/nessy254)] |
 | w3css | https://www.w3schools.com/ |
 =======
 || Name | Email | Question Done|

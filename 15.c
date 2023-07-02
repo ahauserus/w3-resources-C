@@ -1,18 +1,33 @@
 #include <stdio.h>
+
 /**
- * main - calculate the factorial of a given number
- * Return: 0
+ * factorial - calculate the factorial of a given number
+ * @n: number
+ * Return: factorial
  */
+
+int factorial(int n)
+{
+	if (n == 0 || n == 1)
+		return (1);
+	else
+		return (n * factorial(n - 1));
+}
+
+/**
+ * main - Checks the code
+ * Return: 0 is success, 1 otherwise
+ */
+
 int main(void)
 {
-	int n = 5;
-	int i;
-	int factorial = 1;
+	int i = 5;
+	int j = 10;
+	int k = 15;
 
-	for (i = 1; i <= n; i++)
-	{
-		factorial *= 1
-	}
-	printf("The factorial of %d is: %d\n", n, factorial);
+	printf("The Factorial of %d is %d\n", i, factorial(i));
+	printf("The Factorial of %d is %d\n", j, factorial(j));
+	printf("The Factorial of %d is %d\n", k, factorial(k));
+
 	return (0);
 }

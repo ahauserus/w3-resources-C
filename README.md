@@ -4,5 +4,5 @@ C basic codes
 | Name | Github Profile |
 |------|-----------------|
 | Ahauserus | [Ahauserus](https://github.com/Ahauserus)] |
-| w3css | https://www.w3schools.com/ |
+| Minayo Benevolence| [volemy](https://github.com/volemy)]|
 | w3css | https://www.w3schools.com/ |

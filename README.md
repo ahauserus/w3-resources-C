@@ -5,5 +5,7 @@ C basic codes
 || Name | Email | Question Done|
 |-|----------------------|:-----------------:|:--------:|
 |1.| [Ahauserus](https://github.com/Ahauserus)| ahauserus@gmail.com|1, 5 |
-|| w3css | https://www.w3schools.com/ | |
-|| w3css | https://www.w3schools.com/ | |
+|2.| [Minayo](https://www.w3schools.com/)| w3schools@gmail.com| |
+|3.| [Nessy](https://www.w3schools.com/)| w3schools@gmail.com| |
+|4.| [Mark](https://www.w3schools.com/)| w3schools@gmail.com| |
+|5.| [Keith](https://www.w3schools.com/)| w3schools@gmail.com| |

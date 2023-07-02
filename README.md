@@ -1,10 +1,10 @@
-i## w3-resources-C
+## w3-resources-C
 C basic code questions
 ___
 - The following are the contibutors to this repo:
 
 || Name | Email | Question Done|
-|-|----------------------|:-----------------:|:--------:|
+|-|----------------------|:-----------------:|:---------|
 |1.| [Ahauserus](https://github.com/Ahauserus)| ahauserus@gmail.com|1, 6, 7 |
 |2.| [Minayo](https://github.com/volemy)| minayobenevolence0@gmail.com|4, |
 |3.| [Nessy](https://github.com/nessy254)| mukaminessy9@gmail.com|3, 10, 11, 15 |

@@ -3,6 +3,6 @@ C basic codes
 
 | Name | Github Profile |
 |------|-----------------|
-| Ahauserus | ![Ahauserus](https://github.com/Ahauserus)] |
+| Ahauserus | [Ahauserus](https://github.com/Ahauserus)] |
 | w3css | https://www.w3schools.com/ |
 | w3css | https://www.w3schools.com/ |

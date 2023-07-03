@@ -1,22 +1,21 @@
-i## w3-resources-C
+## w3-resources-C
 C basic code questions
 ___
 - The following are the contibutors to this repo:
 
-<<<<<<< HEAD
-| Name | Github Profile |
-|------|-----------------|
-| Ahauserus | [Ahauserus](https://github.com/Ahauserus)] |
-| Minayo Benevolence| [volemy](https://github.com/volemy)]|
-| w3css | https://www.w3schools.com/ |
-=======
 || Name | Email | Question Done|
-|-|----------------------|:-----------------:|:--------:|
-|1.| [Ahauserus](https://github.com/Ahauserus)| ahauserus@gmail.com|1, 6 |
+|-|----------------------|:-----------------:|:---------|
+|1.| [Ahauserus](https://github.com/Ahauserus)| ahauserus@gmail.com|1, 6, 7 |
 |2.| [Minayo](https://github.com/volemy)| minayobenevolence0@gmail.com|4, |
+<<<<<<< HEAD
 |3.| [Nessy](https://github.com/nessy254)| mukaminessy9@gmail.com|3, |
 |4.| [Mark](https://www.github.com/ongaro09)| ongaromark7@gmail.com| |
 |5.| [Keith](https://github.com/Brokeice123)| keithmarkomen@gmail.com| |
+=======
+|3.| [Nessy](https://github.com/nessy254)| mukaminessy9@gmail.com|3, 10, 11, 15 |
+|4.| [Mark](https://www.w3schools.com/)| w3schools@gmail.com|2, 17, 18, 19 , 20 |
+|5.| [Keith](https://github.com/Brokeice123)| keithmarkomen@gmail.com|3, 12, 13, 14, 16 |
+>>>>>>> f2f3cc82792de122c8fc43d5a8a731db3df40aef
 ___
 
 Questions
@@ -179,4 +178,60 @@ Expected Output :
 The positive divisor : 1 2 4 7 8 14 28
 The sum of the divisor is : 64
 So, the number is not perfect.
->>>>>>> 9052cf4d8d7742dfa75bfbc5e5cb5c6349e99be0
+
+21. Write a C program that prints an inverted pyramid.
+Input the number : 8
+Expected Output :
+* * * * * * * *
+ * * * * * * *
+  * * * * * *
+    * * * *
+     * * *
+      * *
+       *
+
+
+22. Write a C program that prints a diamond.
+Input the number : 8
+Expected Output :
+
+        *
+       * *
+      * * *
+     * * * *
+    * * * * *
+   * * * * * *
+  * * * * * * *
+ * * * * * * * *
+  * * * * * * *
+   * * * * * *
+    * * * * *
+     * * * *
+      * * *
+       * *
+        *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

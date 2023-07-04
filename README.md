@@ -9,7 +9,7 @@ ___
 |2.| [Minayo](https://github.com/volemy)| minayobenevolence0@gmail.com|4, |
 <<<<<<< HEAD
 |3.| [Nessy](https://github.com/nessy254)| mukaminessy9@gmail.com|3, |
-|4.| [Mark](https://www.github.com/ongaro09)| ongaromark7@gmail.com| |
+|4.| [Mark](https://www.github.com/ongaro09)| ongaromark7@gmail.com|2, 7a, 17, 18 |
 |5.| [Keith](https://github.com/Brokeice123)| keithmarkomen@gmail.com| |
 =======
 
@@ -145,20 +145,20 @@ The Sum of even Natural Number upto 5 terms : 30
  4 4 4 4
 5 5 5 5 5
 
-17. Write a C program to display the pattern as a pyramid using asterisks, with each row containing an odd number of asterisks.
+18. Write a C program to display the pattern as a pyramid using asterisks, with each row containing an odd number of asterisks.
 
     *
   * * *
 * * * * *
 
-18. Write a program in C to display the sum of the series [ 9 + 99 + 999 + 9999 ...].
+19. Write a program in C to display the sum of the series [ 9 + 99 + 999 + 9999 ...].
 Test Data :
 Input the number or terms :5
 Expected Output :
 9 99 999 9999 99999
 The sum of the saries = 111105
 
-19. Write a program in C to print Floyd's Triangle.
+20. Write a program in C to print Floyd's Triangle.
 
 1
 0 1
@@ -166,7 +166,7 @@ The sum of the saries = 111105
 0 1 0 1
 1 0 1 0 1
 
-20. Write a C program to check whether a given number is a 'Perfect' number or not.
+21. Write a C program to check whether a given number is a 'Perfect' number or not.
 Test Data :
 Input the number : 56
 Expected Output :
@@ -174,7 +174,7 @@ The positive divisor : 1 2 4 7 8 14 28
 The sum of the divisor is : 64
 So, the number is not perfect.
 
-21. Write a C program that prints an inverted pyramid.
+22. Write a C program that prints an inverted pyramid.
 Input the number : 8
 Expected Output :
 * * * * * * * *
@@ -186,7 +186,7 @@ Expected Output :
        *
 
 
-22. Write a C program that prints a diamond.
+23. Write a C program that prints a diamond.
 Input the number : 8
 Expected Output :
 

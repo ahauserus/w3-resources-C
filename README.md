@@ -12,11 +12,6 @@ ___
 |4.| [Mark](https://www.github.com/ongaro09)| ongaromark7@gmail.com| |
 |5.| [Keith](https://github.com/Brokeice123)| keithmarkomen@gmail.com| |
 =======
-|3.| [Nessy](https://github.com/nessy254)| mukaminessy9@gmail.com|3, 10, 11, 15 |
-|4.| [Mark](https://www.w3schools.com/)| w3schools@gmail.com|2, 17, 18, 19 , 20 |
-|5.| [Keith](https://github.com/Brokeice123)| keithmarkomen@gmail.com|3, 12, 13, 14, 16 |
->>>>>>> f2f3cc82792de122c8fc43d5a8a731db3df40aef
-___
 
 Questions
 ```

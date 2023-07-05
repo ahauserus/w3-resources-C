@@ -156,7 +156,7 @@ Test Data :
 Input the number or terms :5
 Expected Output :
 9 99 999 9999 99999
-The sum of the saries = 111105
+The sum of the series = 111105
 
 20. Write a program in C to print Floyd's Triangle.
 

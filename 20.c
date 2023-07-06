@@ -1,29 +1,28 @@
 #include <stdio.h>
 
 /**
+ * main - Prints a Floyd Triangle with 0s and 1s
  *
- *
- *
+ * Return: Always 0 (success), 1 otherwise
  */
+
 int main(void)
 {
+	int i, j, size;
 
-	int i;
-	int odd = 1;
-	int even = 0;
-	int num = 1;
+	size = 100;
 
-	for (i = 0; i < 5; i++) {
-		if (num % 2 == 0){
-			printf("%d ", even);
-
+	for (i = 0; i < size; i++)
+	{
+		for (j = 0; j <= i; j++)
+		{
+			if ((i + j) % 2 == 0)
+				printf("%d ", 1);
+			else
+				printf("%d ", 0);
 		}
-		else {
-			printf("%d ", odd);
-	
-		}
-	num = 1 - num;
+		printf("\n");
 	}
-	printf("\n");
+
 	return (0);
 }

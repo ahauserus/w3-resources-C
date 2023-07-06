@@ -9,17 +9,19 @@
 
 int main(void)
 {
-	int i;
-	int num = 9;
-	int sum = 0;
+	int i, size;
+	long int num = 9;
+	long int sum = 0;
 
-	for (i = 1; i <= 5; i++)
+	size = 15;
+
+	for (i = 1; i <= size; i++)
 	{
-		printf("%d ", num);
-		sum = sum + num;
+		printf("%ld ", num);
+		sum += num;
 		num = num * 10 + 9;
 	}
-	printf("\nThe sum of the series = %d\n", sum);
+	printf("\nThe sum of the series = %ld\n", sum);
 
 	return (0);
 }
